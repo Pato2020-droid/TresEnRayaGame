@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "246505079656",
+    "firebase_url": "https://tresenrayagame-4f20e.firebaseio.com",
+    "project_id": "tresenrayagame-4f20e",
+    "storage_bucket": "tresenrayagame-4f20e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246505079656:android:cd8fe7538c3e993d9f8cdd",
+        "android_client_info": {
+          "package_name": "com.Pato.tresenrayagame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246505079656-2s7p8ch6v35en5dn29u9vue993ftgjs4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Pato.tresenrayagame",
+            "certificate_hash": "878107622494c204b2c03359845d1f45a1dd0160"
+          }
+        },
+        {
+          "client_id": "246505079656-25fv7e7nud1c95dur92inubkbdi2p0kp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxhgWm9KqzqApYWjCd2gLGEDSdLnrJjLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246505079656-25fv7e7nud1c95dur92inubkbdi2p0kp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246505079656:android:2834bd392e011f589f8cdd",
+        "android_client_info": {
+          "package_name": "com.pato.Tresenrayagame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246505079656-nqn1442ac2mq1kjnapjqgi24nsempt93.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pato.Tresenrayagame",
+            "certificate_hash": "878107622494c204b2c03359845d1f45a1dd0160"
+          }
+        },
+        {
+          "client_id": "246505079656-25fv7e7nud1c95dur92inubkbdi2p0kp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxhgWm9KqzqApYWjCd2gLGEDSdLnrJjLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246505079656-25fv7e7nud1c95dur92inubkbdi2p0kp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246505079656:android:0f41e3e5b2cbce649f8cdd",
+        "android_client_info": {
+          "package_name": "com.pato.tresenrayagame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246505079656-ql4l7bor3600m10acp3hva78ui8dp61b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pato.tresenrayagame",
+            "certificate_hash": "878107622494c204b2c03359845d1f45a1dd0160"
+          }
+        },
+        {
+          "client_id": "246505079656-25fv7e7nud1c95dur92inubkbdi2p0kp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxhgWm9KqzqApYWjCd2gLGEDSdLnrJjLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246505079656-25fv7e7nud1c95dur92inubkbdi2p0kp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

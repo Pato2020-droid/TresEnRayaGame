@@ -1,0 +1,4 @@
+# Referenced at C:\Users\user\AndroidStudioProjects\AndroidGames\TresEnRayaGame\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:18
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at C:\Users\user\AndroidStudioProjects\AndroidGames\TresEnRayaGame\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:18
+-keep class com.pato.tresenrayagame.app.MyApp { <init>(); }
